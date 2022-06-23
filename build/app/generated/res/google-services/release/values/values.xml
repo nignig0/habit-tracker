@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">137878645481-mgjrr0f702d63kr04ucvvhg6ois92g7o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">137878645481</string>
+    <string name="google_api_key" translatable="false">AIzaSyCrgaC-UQuxQQxNj2HzgV466g0-mPU9th8</string>
+    <string name="google_app_id" translatable="false">1:137878645481:android:5cf2352456720120f8de78</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrgaC-UQuxQQxNj2HzgV466g0-mPU9th8</string>
+    <string name="google_storage_bucket" translatable="false">kanban-cc8c8.appspot.com</string>
+    <string name="project_id" translatable="false">kanban-cc8c8</string>
+</resources>

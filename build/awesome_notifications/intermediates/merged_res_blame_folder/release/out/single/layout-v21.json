@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\projects\\habit tracker\\build\\awesome_notifications\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\20273267a31db6b82c5ea446c31ee770\\core-1.7.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\projects\\habit tracker\\build\\awesome_notifications\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\20273267a31db6b82c5ea446c31ee770\\core-1.7.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\projects\\habit tracker\\build\\awesome_notifications\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\20273267a31db6b82c5ea446c31ee770\\core-1.7.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\projects\\habit tracker\\build\\awesome_notifications\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\20273267a31db6b82c5ea446c31ee770\\core-1.7.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

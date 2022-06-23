@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137878645481",
+    "project_id": "kanban-cc8c8",
+    "storage_bucket": "kanban-cc8c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137878645481:android:5cf2352456720120f8de78",
+        "android_client_info": {
+          "package_name": "com.example.outings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137878645481-mgjrr0f702d63kr04ucvvhg6ois92g7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrgaC-UQuxQQxNj2HzgV466g0-mPU9th8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137878645481-mgjrr0f702d63kr04ucvvhg6ois92g7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
