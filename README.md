@@ -1,4 +1,4 @@
-# outings
+# Kanban
 
 A new Flutter project.
 
